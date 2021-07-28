@@ -1,3 +1,6 @@
+Fork and clone this [repo](https://github.com/webdev-june-2021/34-associations). It is using the same db as chinook. If you get an error when connecting to db. Make sure to start the psql db by running
+``` sudo -u postgres psql ```
+
 ## Questions
 
  
